@@ -1,0 +1,20 @@
+.about-section {
+  background-color: var(--bg-color);
+}
+
+.about-content {
+  padding: 3rem;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 1.15rem;
+  color: var(--text-secondary);
+  line-height: 1.8;
+}
+
+@media (max-width: 768px) {
+  .about-content {
+    padding: 2rem;
+    font-size: 1rem;
+  }
+}
