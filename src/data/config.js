@@ -109,6 +109,13 @@ export const config = {
         date: "July 2024",
         thumbnail: "",
         certificateUrl: "/hackerrank-certificate.pdf"
+      },
+      {
+        title: "Backend Development and API Creation",
+        issuer: "Packt (Coursera)",
+        date: "Oct 2025",
+        thumbnail: "",
+        certificateUrl: "/packt-backend-certificate.pdf"
       }
     ]
   },
