@@ -79,6 +79,39 @@ export const config = {
       }
     ]
   },
+  certifications: {
+    title: "Certifications & Internships",
+    list: [
+      {
+        title: "Software Development Engineer (SDE) Intern Offer",
+        issuer: "Dronearch Systems and Technologies",
+        date: "June 2026",
+        thumbnail: "",
+        certificateUrl: "/dronearch-offer.pdf"
+      },
+      {
+        title: "Summer Internship Certificate (Golang, Node.js, PostgreSQL)",
+        issuer: "Busy Infotech Private Limited",
+        date: "May 2025 - July 2025",
+        thumbnail: "",
+        certificateUrl: "/busy-infotech-internship.pdf"
+      },
+      {
+        title: "The Joy of Computing using Python (Elite Top 5%)",
+        issuer: "NPTEL (IIT Madras)",
+        date: "Jul-Oct 2025",
+        thumbnail: "",
+        certificateUrl: "/nptel-python-certificate.pdf"
+      },
+      {
+        title: "Problem Solving (Basic) Certificate",
+        issuer: "HackerRank",
+        date: "July 2024",
+        thumbnail: "",
+        certificateUrl: "/hackerrank-certificate.pdf"
+      }
+    ]
+  },
   contact: {
     title: "Contact",
     email: "rishiraj132000@gmail.com"
