@@ -86,35 +86,35 @@ export const config = {
         title: "Software Development Engineer (SDE) Intern Offer",
         issuer: "Dronearch Systems and Technologies",
         date: "June 2026",
-        thumbnail: "",
+        thumbnail: "https://ui-avatars.com/api/?name=Dronearch+Systems&background=0b1121&color=2563eb&size=400",
         certificateUrl: "/dronearch-offer.pdf"
       },
       {
         title: "Summer Internship Certificate (Golang, Node.js, PostgreSQL)",
         issuer: "Busy Infotech Private Limited",
         date: "May 2025 - July 2025",
-        thumbnail: "",
+        thumbnail: "https://ui-avatars.com/api/?name=Busy+Infotech&background=0b1121&color=2563eb&size=400",
         certificateUrl: "/busy-infotech-internship.pdf"
       },
       {
         title: "The Joy of Computing using Python (Elite Top 5%)",
         issuer: "NPTEL (IIT Madras)",
         date: "Jul-Oct 2025",
-        thumbnail: "",
+        thumbnail: "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/1200px-IIT_Madras_Logo.svg.png",
         certificateUrl: "/nptel-python-certificate.pdf"
       },
       {
         title: "Problem Solving (Basic) Certificate",
         issuer: "HackerRank",
         date: "July 2024",
-        thumbnail: "",
+        thumbnail: "https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png",
         certificateUrl: "/hackerrank-certificate.pdf"
       },
       {
         title: "Backend Development and API Creation",
         issuer: "Packt (Coursera)",
         date: "Oct 2025",
-        thumbnail: "",
+        thumbnail: "https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg",
         certificateUrl: "/packt-backend-certificate.pdf"
       }
     ]
